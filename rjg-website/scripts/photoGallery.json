@@ -1,0 +1,89 @@
+{
+        "id":"test",
+        "Gallery":[
+			{
+				"title":"Gallery 1",
+				"members":[
+					{ 
+						"href":"img/pics/amphibian.jpg",
+						"class":"g1",
+						"element":"a",
+						"rel":"prettyPhoto[pp_gal]",
+						"title":"You can add caption to pictures.",
+						"imgSrc":"img/pics/amphibian.jpg",
+						"imgAlt":"Red round shape"
+					},
+					{ 
+						"href":"img/pics/basecon2.jpg",
+						"class":"g1",
+						"element":"a",
+						"rel":"prettyPhoto[pp_gal]",
+						"title":"You can add caption to pictures.",
+						"imgSrc":"img/pics/basecon2.jpg",
+						"imgAlt":"Red round shape"
+					},
+					{ 
+						"href":"img/pics/olongapo1.jpg" ,
+						"class":"g1",
+						"element":"a",
+						"rel":"prettyPhoto[pp_gal]",
+						"title":"You can add caption to pictures.",
+						"imgSrc":"img/pics/olongapo1.jpg",
+						"imgAlt":"Red round shape"
+					},
+					{ 
+						"href":"img/pics/Poll automation.jpg" ,
+						"class":"g1",
+						"element":"a",
+						"rel":"prettyPhoto[pp_gal]",
+						"title":"You can add caption to pictures.",
+						"imgSrc":"img/pics/Poll automation.jpg",
+						"imgAlt":"Red round shape"
+					}
+				]
+			
+			},
+			{
+				"title":"Gallery 2",
+				"members":[
+					{ 
+						"href":"img/pics/amphibian.jpg",
+						"class":"g2",
+						"element":"a",
+						"rel":"prettyPhoto[pp_gal]",
+						"title":"You can add caption to pictures.",
+						"imgSrc":"img/pics/amphibian.jpg",
+						"imgAlt":"Red round shape"
+					},
+					{ 
+						"href":"img/pics/basecon2.jpg",
+						"class":"g2",
+						"element":"a",
+						"rel":"prettyPhoto[pp_gal]",
+						"title":"You can add caption to pictures.",
+						"imgSrc":"img/pics/basecon2.jpg",
+						"imgAlt":"Red round shape"
+					},
+					{ 
+						"href":"img/pics/olongapo1.jpg" ,
+						"class":"g2",
+						"element":"a",
+						"rel":"prettyPhoto[pp_gal]",
+						"title":"You can add caption to pictures.",
+						"imgSrc":"img/pics/olongapo1.jpg",
+						"imgAlt":"Red round shape"
+					},
+					{ 
+						"href":"img/pics/Poll automation.jpg" ,
+						"class":"g2",
+						"element":"a",
+						"rel":"prettyPhoto[pp_gal]",
+						"title":"You can add caption to pictures.",
+						"imgSrc":"img/pics/Poll automation.jpg",
+						"imgAlt":"Red round shape"
+					}
+				]
+			
+			}
+		]
+}

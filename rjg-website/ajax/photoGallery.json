@@ -1,0 +1,127 @@
+{
+        "id":"test",
+        "Gallery":[
+			{
+				"title":"Red Cross",
+				"class1":"g1",
+				"members":[
+					{ 
+						"href":"img/pics/amphibian.jpg",
+						
+						"element":"a",
+						"rel":"prettyPhoto[pp_gal]",
+						"title":"You can add caption to pictures.",
+						"imgSrc":"img/pics/amphibian.jpg",
+						"imgAlt":"Red round shape"
+					},
+					{ 
+						"href":"img/pics/basecon2.jpg",
+						
+						"element":"a",
+						"rel":"prettyPhoto[pp_gal]",
+						"title":"You can add caption to pictures.",
+						"imgSrc":"img/pics/basecon2.jpg",
+						"imgAlt":"Red round shape"
+					},
+					{ 
+						"href":"img/pics/olongapo1.jpg" ,
+						
+						"element":"a",
+						"rel":"prettyPhoto[pp_gal]",
+						"title":"You can add caption to pictures.",
+						"imgSrc":"img/pics/olongapo1.jpg",
+						"imgAlt":"Red round shape"
+					},
+					{ 
+						"href":"img/pics/Poll automation.jpg" ,
+						
+						"element":"a",
+						"rel":"prettyPhoto[pp_gal]",
+						"title":"You can add caption to pictures.",
+						"imgSrc":"img/pics/Poll automation.jpg",
+						"imgAlt":"Red round shape"
+					}
+				]
+			
+			},
+			{
+				"title":"Gallery 2",
+				"class":"g2",
+				"members":[
+					{ 
+						"href":"img/pics/amphibian.jpg",
+						
+						"element":"a",
+						"rel":"prettyPhoto[pp_gal]",
+						"title":"You can add caption to pictures.",
+						"imgSrc":"img/pics/amphibian.jpg",
+						"imgAlt":"Red round shape"
+					},
+					{ 
+						"href":"img/pics/basecon2.jpg",
+						
+						"element":"a",
+						"rel":"prettyPhoto[pp_gal]",
+						"title":"You can add caption to pictures.",
+						"imgSrc":"img/pics/basecon2.jpg",
+						"imgAlt":"Red round shape"
+					},
+					{ 
+						"href":"img/pics/olongapo1.jpg" ,
+						
+						"element":"a",
+						"rel":"prettyPhoto[pp_gal]",
+						"title":"You can add caption to pictures.",
+						"imgSrc":"img/pics/olongapo1.jpg",
+						"imgAlt":"Red round shape"
+					},
+					{ 
+						"href":"img/pics/Poll automation.jpg" ,
+						
+						"element":"a",
+						"rel":"prettyPhoto[pp_gal]",
+						"title":"You can add caption to pictures.",
+						"imgSrc":"img/pics/Poll automation.jpg",
+						"imgAlt":"Red round shape"
+					},
+					{ 
+						"href":"img/pics/amphibian.jpg",
+						
+						"element":"a",
+						"rel":"prettyPhoto[pp_gal]",
+						"title":"You can add caption to pictures.",
+						"imgSrc":"img/pics/amphibian.jpg",
+						"imgAlt":"Red round shape"
+					},
+					{ 
+						"href":"img/pics/basecon2.jpg",
+						
+						"element":"a",
+						"rel":"prettyPhoto[pp_gal]",
+						"title":"You can add caption to pictures.",
+						"imgSrc":"img/pics/basecon2.jpg",
+						"imgAlt":"Red round shape"
+					},
+					{ 
+						"href":"img/pics/olongapo1.jpg" ,
+						
+						"element":"a",
+						"rel":"prettyPhoto[pp_gal]",
+						"title":"You can add caption to pictures.",
+						"imgSrc":"img/pics/olongapo1.jpg",
+						"imgAlt":"Red round shape"
+					},
+					{ 
+						"href":"img/pics/Poll automation.jpg" ,
+						
+						"element":"a",
+						"rel":"prettyPhoto[pp_gal]",
+						"title":"You can add caption to pictures.",
+						"imgSrc":"img/pics/Poll automation.jpg",
+						"imgAlt":"Red round shape"
+					}
+				]
+			
+			}
+		]
+}

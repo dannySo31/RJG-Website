@@ -1,0 +1,13 @@
+.header
+{
+     background-image:url('../img/header.png');
+   background-position:right;
+   background-repeat:no-repeat;
+}
+
+.main
+{
+      background-image:url('../img/dgimage.png');
+    background-repeat:no-repeat;
+     background-position:LEFT bottom;
+}

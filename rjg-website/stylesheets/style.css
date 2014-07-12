@@ -1,0 +1,255 @@
+body
+{
+    font-family:Century Gothic;
+   background-color:#d49a25;  
+    /*     background-color:#8A2316; */
+   
+   
+}
+#fb
+{
+  
+   height:150px;
+   padding-right:20px;
+   
+}
+h1
+{
+    font-family:Century Gothic;
+    color:Gray;
+}
+#smLinks
+{
+  
+  padding-right:10px;
+
+ 
+  
+}
+#rjg_header
+{
+    position:absolute;
+    background-color:#2D3E5B;
+    top:0;
+    left:0;
+     width:100%;
+    height:50px;
+    margin-bottom:10px;
+    text-align:right;
+   
+    
+}
+#smLinks a img
+{
+   
+    border:0;
+    position:relative;
+}
+#rjg_content
+{
+    text-align:right;
+ 
+   font-family: 'Montserrat', sans-serif;
+
+   color:#FFFFFF;
+  
+   float:left;
+   top:70px;
+  
+   position:absolute;
+  z-index:100;
+  
+   
+}
+#rjg_main,#rjg_content
+{
+     min-width:1300px;
+      margin:0 auto;
+}
+#rjg_main
+{
+    position:fixed;
+    height:1000px;
+   bottom:0;
+     z-index:1;
+   
+     
+}
+.h_underline
+{
+    text-decoration:underline;
+   
+}
+#rjg_footer_overflow
+{
+    font-size:10px;
+}
+#rjg_footer
+{
+     opacity:0.5;
+      filter: alpha(opacity = 50);
+     
+    /* background-color:#4B130C; */
+}
+#rjg_footer,#rjg_footer_overflow
+{
+    position:fixed;
+    bottom:0;
+    left:0;
+    width:100%;
+    height:260px;
+   
+   
+    
+}
+#rjg_footer_overflow #overflow_left
+{
+    float:left;
+    position:absolute;
+   bottom:0;
+    margin-left:5px;
+}
+#overflow_right,#overflow_middle
+{
+    float:right;
+}
+#overflow_right
+{
+     padding-right:30px;
+}
+.pBody
+{
+     
+       height:330px;
+}
+.featured
+{
+   
+    float:right;
+    width:450px;
+    overflow:auto;
+  font-family:Century Gothic;
+ 
+  height:280px;
+  text-align:left;
+  font-size:14px;
+  
+  padding-right:10px;
+  
+  
+}
+.left_align
+{
+    text-align:left;
+}
+
+#rjg_menu li
+{
+    display:inline-block;
+    color:#ffffff;
+     font-family:'Century Gothic';
+    
+      
+}
+#rjg_menu li a
+{
+    opacity:0.5;
+      filter: alpha(opacity = 50);
+      color:#ffffff;
+      text-decoration:none;
+      font-size:16px;
+}
+
+#rjg_menu li a:hover
+{
+      opacity:1;
+      filter: alpha(opacity = 100);
+      cursor:pointer;
+}
+#rjg_menu ul
+{
+    padding-right:70px;
+}
+
+#rjg_menu
+{
+     float:right;
+    z-index:20;
+    position:fixed;
+    top:0;
+    right:0;
+    
+}
+.pTitle
+{
+    font-weight:bold;
+    text-decoration:underline;
+    font-size:20px;
+    
+     
+}
+.statement
+{
+    text-align:right;
+    color:#2D3E5B;
+    font-family:Century Gothic;
+    font-size:23px;
+    font-weight:bold;
+    text-indent:20px;
+   
+  
+}
+.box_div
+{
+    height:400px;
+    width:100%;
+    overflow:auto;
+    line-height:25px;
+    text-align:justify;
+    padding-right:10px;
+       padding-left:10px;
+       border-color:Gray;
+       outline:none;
+}
+.float_left
+{
+    float:left;
+    padding-right:10px;
+  
+}
+
+.float_right
+{
+    float:right;
+    padding-left:10px;
+    
+}
+.float_right,.float_left
+{
+     margin-top:15px;
+}
+.w_header
+{
+    font-family:Century Gothic;
+    color:Gray;
+    font-size:30px;
+    
+}
+.galleryTitle
+{
+    color:Gray;
+    font-size:20px;
+    width:200px;
+}
+td
+{
+    text-align:left;
+}
+
+.rjg_video
+{
+    float:left;
+    padding-right:5px;
+   
+    width:250px;
+}
